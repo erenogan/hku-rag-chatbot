@@ -1,0 +1,88 @@
+MÜDEK | Bilgisayar Mühendisliği | Hasan Kalyoncu Üniversitesi
+MÜDEK
+Mühendislik Eğitim Programları Değerlendirme ve Akreditasyon Derneği
+Müdek Akreditasyonu
+MÜDEK Akreditasyonu Sertifikalarımız
+Program Eğitim Amaçları
+Program Çıktıları
+Ders - Program Çıktıları Yeterlilik İlişkileri
+Ölçme ve Değerlendirme
+Kalite Güvence Sistemi
+Lisans Program Yeterliliği
+Öz Değerlendirme Raporu (ÖDR)
+Müdek Akreditasyonu
+Mühendislik Eğitim Programları Değerlendirme ve Akreditasyon Derneği (MÜDEK)
+, çeşitli disiplinlerdeki mühendislik eğitim programları için akreditasyon, değerlendirme ve bilgilendirme çalışmaları yaparak mühendislik eğitiminin kalitesinin yükseltilmesine katkıda bulunmak amacıyla faaliyet gösteren bağımsız bir kuruluştur.
+MÜDEK, 2002 yılında Türkiye ve KKTC’de mühendislik eğitimi veren fakültelerin dekanlarından oluşan
+Mühendislik Dekanları Konseyi (MDK)
+tarafından, bu fakültelerin mühendislik lisans programlarının değerlendirmesi için ayrıntılı bir program düzenlemek ve uygulamak üzere,
+Mühendislik Değerlendirme Kurulu
+adı ile bağımsız bir platform olarak kurulmuş, 2003 yılında mühendislik programlarının değerlendirmesine başlamış ve 2007 yılında dernekleşmiştir.
+MÜDEK idari personeli dışında, MÜDEK kurulları, komiteleri, çalışma grupları ve akreditasyon değerlendirme takımlarında görev alan tüm kişiler herhangi bir ücret almadan gönüllülük esasına göre çalışırlar.
+MÜDEK 17 Kasım 2006 tarihinden beri Avrupa Mühendislik Eğitimi Akreditasyon Ağı (ENAEE – European Network for Accreditation of Engineering Education) adlı kuruluşun üyesi ve 15 Haziran 2011 tarihinden beri Washington Accord (WA) imzacısıdır (üyesidir).
+MÜDEK Akreditasyonu Sertifikalarımız
+MÜDEK Bilgisayar Müh_rotated
+EUR-ACE Bilgisayar
+Program Eğitim Amaçları
+PROGRAM EĞİTİM AMAÇLARI
+Hasan Kalyoncu Üniversitesi Bilgisayar Mühendisliği Bölümünden mezun olan öğrenciler yakın gelecekte;
+1.
+Bilgisayar Mühendisliği, Yazılım Mühendisliği, Sistem Mühendisliği ve ilgili disiplinlerde araştırma-geliştirme, yazılım geliştirme, sistem ve donanım, proje mühendisi gibi farklı görevler alarak özel sektörde/kamuda çalışırlar.
+2.
+Yenilikçi, girişimci ve vizyon sahibi bireyler olarak, Bilgisayar Bilimleri ve Mühendisliği veya ilgili alanlarda ulusal/uluslararası şirketler kurarlar.
+3.
+Bilgisayar Bilimleri ve Mühendisliği, Bilişim Sistemleri veya ilgili disiplinlerde lisansüstü eğitimlerine devam ederler.
+Program Çıktıları
+1)
+Matematik, fen bilimleri ve ilgili mühendislik disiplinine özgü konularda yeterli bilgi birikimi; bu alanlardaki kuramsal ve uygulamalı bilgileri, karmaşık mühendislik problemlerinde kullanabilme becerisi.
+2)
+Karmaşık mühendislik problemlerini saptama, tanımlama, formüle etme ve çözme becerisi; bu amaçla uygun analiz ve modelleme yöntemlerini seçme ve uygulama becerisi.
+3)
+Karmaşık bir sistemi, süreci, cihazı veya ürünü gerçekçi kısıtlar ve koşullar altında, belirli gereksinimleri karşılayacak şekilde tasarlama becerisi; bu amaçla modern tasarım yöntemlerini uygulama becerisi.
+4)
+Mühendislik uygulamalarında karşılaşılan karmaşık problemlerin analizi ve çözümü için gerekli olan modern teknik ve araçları geliştirme, seçme ve kullanma becerisi; bilişim teknolojilerini etkin bir şekilde kullanma becerisi.
+5)
+Karmaşık mühendislik problemlerinin veya disipline özgü araştırma konularının incelenmesi için deney tasarlama, deney yapma, veri toplama, sonuçları analiz etme ve yorumlama becerisi.
+6)
+Disiplin içi ve çok disiplinli takımlarda etkin biçimde çalışabilme becerisi; bireysel çalışma becerisi.
+7)
+Türkçe sözlü ve yazılı etkin iletişim kurma becerisi; en az bir yabancı dil bilgisi; etkin rapor yazma ve yazılı raporları anlama, tasarım ve üretim raporları hazırlayabilme, etkin sunum yapabilme, açık ve anlaşılır talimat verme ve alma becerisi.
+8)
+Yaşam boyu öğrenmenin gerekliliği bilinci; bilgiye erişebilme, bilim ve teknolojideki gelişmeleri izleme ve kendini sürekli yenileme becerisi.
+9)
+Etik ilkelerine uygun davranma, mesleki ve etik sorumluluk bilinci; mühendislik uygulamalarında kullanılan standartlar hakkında bilgi.
+10)
+Proje yönetimi, risk yönetimi ve değişiklik yönetimi gibi, iş hayatındaki uygulamalar hakkında bilgi; girişimcilik, yenilikçilik hakkında farkındalık; sürdürülebilir kalkınma hakkında bilgi.
+11)
+Mühendislik uygulamalarının evrensel ve toplumsal boyutlarda sağlık, çevre ve güvenlik üzerindeki etkileri ve çağın mühendislik alanına yansıyan sorunları hakkında bilgi; mühendislik çözümlerinin hukuksal sonuçları konusunda farkındalık.
+Ders - Program Çıktıları Yeterlilik İlişkileri
+Course PO matrix for CENG (1)
+Ölçme ve Değerlendirme
+Bu programda; ara sınav, ödev, alıştırma, proje, uygulama ve dönem sonu sınavı gibi farklı değerlendirme yöntemleri uygulanmaktadır. Değerlendirme yöntemleri arasında klasik sınav, çoktan seçmeli sınav, ev ödevi, performans değerlendirme ve ürün değerlendirme yer alabilir. Programdan mezun olmak için ağırlıklı genel not ortalamasının en az 2.00 olması gerekmektedir. Bir dersin notu, yukarıdaki unsurların değerlendirilmesi sonucunda belirlenir ve harf olarak verilir. Bir dersten başarılı olmak için en az DD harf notu gerekmektedir. Harf notları ve her bir notun katsayısı aşağıda belirtilmektedir.
+Harf Notu
+Katsayı
+AA
+4,0
+BA
+3,5
+BB
+3,0
+CB
+2,5
+CC
+2,0
+DC
+1,5
+DD
+1,0
+FD
+0,5
+FF
+0,0
+NA
+0,0
+Kalite Güvence Sistemi
+Lisans Program Yeterliliği
+1 yıl İngilizce Hazırlık ve 4 yıl Lisans eğitimi ile birlikte toplam 5 yıl eğitim süresi vardır. Eğitim dili yüzde yüz İngilizcedir. 145 kredi ve 240 AKTS tamamlanarak mezun olmaya hak kazanılır. Son yarıyılda dönemlik staj (COOP) bulunmaktadır.
+Öz Değerlendirme Raporu (ÖDR)
+MUDEK-Bilgisayar Mühendisliği_Ozdegerlendirme_Raporu_240404 (1)

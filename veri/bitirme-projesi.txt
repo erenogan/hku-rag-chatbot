@@ -1,0 +1,222 @@
+Bitirme Projesi | Bilgisayar Mühendisliği | Hasan Kalyoncu Üniversitesi
+Bitirme Projesi
+3.Sınıfların bitirme projesi süreci için
+tıklayınız.
+Sevgili son sınıf öğrencilerimiz,
+Bu dönem itibariyle bitirme projelerinde uygulanan süreç güncellendi. Güncellenen süreç ile ilgili detayları aşağıda bulabilirsiniz. Süreç ile ilgili bir sorunuz varsa bölümümüz bitirme proje koordinatörü Dr. Saed ALQARALEH ile ya da bitirme proje asistanları Arş. Gör. Nihat Yılmaz ŞİMŞEK ve Arş. Gör. Melih YAYLA ile iletişime geçebilirsiniz.
+Bilgisayar Mühendisliği Bölüm Başkanlığı
+2022-2023 Bahar Dönemi Bitirme Projesi Süreci
+1)
+Bitirme projesini geçen dönem alan öğrenciler ilgili projenin danışman hocası ile çalışmaya devam edeceklerdir.
+2)
+Bitirme projeleri dörderli gruplar halinde tamamlanacaktır.
+3)
+Her grup aşağıda listelenen projelerden yine aşağıda bulunan Proje Seçim Formu’nu doldurarak beşer proje seçmek zorundadır.
+4)
+Her grup Proje Seçim Formu’nu en geç 15.03.2023 tarihine kadar Arş. Gör. Furkan ÖZKAN’a (
+furkan.ozkan@hku.edu.tr
+) teslim edecektir.
+5)
+Proje-Grup eşleşmesi grupların proje seçiminde belirtmiş olduğu öncelik sırasına göre yapılacaktır. Birden fazla grubun aynı projeyi seçmesi durumunda, üyelerinin ortalaması en yüksek olan gruba öncelik verilecektir.
+6)
+Proje-Grup eşleşmeleri tamamlandıktan sonra öğrenciler ilgili projenin danışman hocası ile çalışmaya başlayacaklardır.
+7)
+Her grup, danışman hocası ile her hafta toplanacak olup her toplantı sonrasında alınan/verilen kararları ve proje ile ilgili gelişmeleri aşağıda bulunan Proje Takip Formu’na yazacaktır.
+8)
+Tüm gruplar proje ile ilgili aşağıda yer alan “Bitirme Projesi Ara Raporu” (Giriş + Literatür + SRS +Referans tamamlanmış) formatına uygun bir ara raporu 21.04.2023 tarihine kadar yazıp proje danışman hocalarına ve Google classroom’da açılan ödeve yüklemeleri gerekmektedir.
+9)
+Tüm gruplar proje raporlarının son hallerini aşağıda yer alan “Bitirme Projesi Final Raporu” (Giriş + Literatür + SRS + SDD +Referans tamamlanmış) formatına uygun olacak şekilde, 23.06.2023 tarihine kadar yazarak intihal ve şablon kontrolü için Arş. Gör. Pınar Güler’e (
+pinar.guler@hku.edu.tr
+)  gönderebilirler.
+10)
+Kontrolden geçen final raporları gruplar tarafından güncellenerek 02.07.2023 tarihine kadar hem danışman hocalara gönderilmeli hem de Google classroom’da açılan final raporu ödevine yüklenmesi gerekmektedir.
+11)
+04.07.2023 tarihinde bitirme proje sunumları için bir “Demo Day” düzenlenecektir. Demo esnasında göstermek üzere her grup projelerini açıklayan A1 formatında bir poster hazırlayacaktır. Her grup Bölüm Başkanlığı’nca belirlenecek olan yerde jüri üyelerine poster ve proje sunumlarını yapacaklardır.
+Not 1:
+Aşağıda belirtilen projeleri seçmek istemeyen öğrenciler geliştirmek istedikleri projeleri aşağıda yer alan Proje Öneri Formu’nu doldurarak herhangi bir öğretim üyesi ile görüşebilirler. Öğretim üyeleri tarafından onaylanan proje önerileri proje tercih zamanından 3 gün öncesine kadar (12.03.2023) Arş. Gör. Furkan Özkan’a iletilmelidir. Önerilen projenin kabul edilmemesi durumuna karşı öğrenciler yine de proje seçim formunu 5 adet proje seçerek doldurması gerekmektedir.
+Not 2:
+Bitirme Projesi sürecinde yer alan “Önemli Tarihler” de herhangi bir esneme olmayacaktır. Teslim tarihlerine uymayan ve sorumluluklarını yerine getirmeyen öğrenciler direkt olarak bitirme projesi dersinden başarısız sayılacaklardır.
+Not 3:
+Bitirme Projesi final raporundaki intihal oranı en fazla %20 olmalıdır. Aksi takdirde intihal raporu %20’den fazla olan gruplar bitirme projesi dersinden başarısız sayılacaklardır.
+Not 4:
+Bitirme Projesi ara raporundaki intihal oranı en fazla %20 olmalıdır. Bu rapor için Bitirme Projesi Koordinatörlüğü rapor teslimatından önce herhangi bir ön kontrol yapmayacaktır. Ön kontrol yaptırmak isteyen öğrenciler Arş. Gör. Furkan Özkan’dan randevu alarak raporlarındaki intihal oranına bakabilirler. Ara rapor teslimatından sonra Bitirme Projesi Koordinatörlüğü tarafından intihal kontrolü yapılacak olup intihal oranı %20’den fazla olan gruplar ara raporlarından puan alamayacaklar.
+BİTİRME PROJE ŞABLONLARI
+Bitirme Proje Raporu Kılavuzu
+Bitirme Proje Raporu Formatı
+Literatür Tarama Kılavuzu
+IEEE SRS Kılavuzu
+IEEE SDD Kılavuzu
+Örnek Rapor
+ÖNEMLİ TARİHLER
+21 Nisan 2023
+Bitirme Projesi ara rapor teslimi için son gün (Giriş + Literatür + SRS + Referans tamamlanmış)
+23 Haziran 2023
+Bitirme Projelerinin şablon + intihal kontrolü  (Giriş + Literatür+SRS + SDD + Referans tamamlanmış)
+2 Temmuz 2023
+Bitirme projeleri teslimi için son gün danışman + şablon kontrolü tamamlanmış (Giriş + Literatür + SRS + SDD + Referans tamamlanmış)
+4 Temmuz 2023
+Bitirme Projesi Poster + Jüri Sunumları
+PROJE – GRUP EŞLEŞMELERİ
+Proje No
+Danışman
+Proje Adı
+Grup Adı
+Grup Üyeleri
+2023-101
+Prof. Dr. M. Fatih Hasoğlu
+Trainee Tracking and Trainer Application
+Forbit
+Hazal Zengin
+Süleyman Emre Kıskaç
+Günen İrem Usta
+Osmancan Özdemir
+2023-125
+Prof. Dr. M. Fatih Hasoğlu
+Detective game created using VR technology
+Mecilla
+Ali Cem Gülçiçek
+Kübra Özcan
+Onat Gencer
+Samed Uğur Zaman
+2023-105
+Doç. Dr. Abdul Hafez
+Touch panel-based Application for Human-Wheelchair Interaction
+Infinite Recursion
+Didar İlayda Çiçek
+İsmihan Özer
+Muhammed Fatih Bayrakçı
+Enes Arslan
+2023-107
+Doç. Dr. Abdul Hafez
+Visual Localization of a Vehicle on the road using LSTM and deep Transformers
+Tigers
+Fatih Yonucuoğlu
+Furkan Kurt
+Haluk Erbalcı
+2023-111
+Dr.Öğr.Üyesi Saed Alqaraleh
+Mobile Augmented Reality for Phobia (fear) Treatment
+Hku students
+Ahmad Alchikh
+Redwan Salem
+Mahmut Muselleti
+2023-115
+Dr.Öğr.Üyesi Saed Alqaraleh
+Sentiment Analysis System For Images
+Orion
+Rabia Sena Yener
+Mustafa Isa
+Emre Dinleyici
+Adib Elmustafa
+2023-117
+Dr.Öğr.Üyesi Mohammed Madi
+Automated Real-Time Stock Market System Based on Cloud Computing
+–
+Youssef ZATARI
+Ahmad ZATARI
+Mahmoud ZATRI
+Baraa ZATARI
+2023-119
+Dr.Öğr.Üyesi Mohammed Madi
+Cloud-based Blood Bank Management System
+HKU Group
+Ayham Chami
+Ahmed Neccar
+Khaled Alobied
+Rama Alomar
+–
+Dr.Öğr.Üyesi Mohammed Madi
+Network Fault Management System for Educational Institution
+ALPHA
+Osama Alali
+Übede Receppaşa
+2023-121
+Dr.Öğr.Üyesi Mustafa Bıçakcı
+Ulukayin: A digital culture game that provides an effective and entertaining presentation of history education
+Simurg
+Barış Can Çamsarı
+Zeynep Kızılay
+Ömer Haydar Arpacı
+2023-123
+Dr.Öğr.Üyesi Mustafa Bıçakcı
+Barista Training with VR
+Caffeintech
+Berkay Ertay
+Esra Nur Ulusoy
+Zeynep Akşamoğlu
+–
+Arş. Gör. Cihan Kuzudişli
+–
+–
+İbrahim Enes Çağlayan
+–
+Arş. Gör. Furkan Özkan
+–
+–
+Berkay Günay
+Burak Aydaş
+GEÇMİŞ DÖNEMLERDEKİ PROJELER
+2021-2022 Güz
+2020-2021 Bahar
+2020-2021 Güz
+2019-2020 Bahar
+2019-2020 Güz
+PROJE ÖNERİLERİ
+Proje No
+Danışman
+Proje Adı
+Form
+Firma Bilgisi
+2023-101
+Prof. Dr. M. Fatih Hasoğlu
+Trainee Tracking and Trainer Application
+Proje Detayı
+–
+2023-103
+Prof. Dr. M. Fatih Hasoğlu
+Cow Dairy Farming Management Application
+Proje Detayı
+–
+2023-105
+Doç. Dr. Abdul Hafez
+Touch panel-based Application for Human-Wheelchair Interaction
+Proje Detayı
+–
+2023-107
+Doç. Dr. Abdul Hafez
+Visual Localization of a Vehicle on the road using LSTM and deep Transformers
+Proje Detayı
+–
+2023-109
+Dr.Öğr.Üyesi Saed Alqaraleh
+A Crimes Tools Detection System using Deep Learning
+Proje Detayı
+–
+2023-111
+Dr.Öğr.Üyesi Saed Alqaraleh
+Mobile Augmented Reality for Phobia(fear) Treatment
+Proje Detayı
+–
+2023-113
+Dr.Öğr.Üyesi Saed Alqaraleh
+Real-Time Traffic Density Measurement For Smart Traffic Light Control
+Proje Detayı
+–
+2023-115
+Dr.Öğr.Üyesi Saed Alqaraleh
+Sentiment Analysis System For Images
+Proje Detayı
+–
+2023-117
+Dr.Öğr.Üyesi Mohammed Madi
+Automated Real-Time Stock Market System Based on Cloud Computing
+Proje Detayı
+–
+2023-119
+Dr.Öğr.Üyesi Mohammed Madi
+Cloud-based Blood Bank Management System
+Proje Detayı
+–
+Proje Öneri Formu
+Proje Seçim Formu
+Proje Takip Formu

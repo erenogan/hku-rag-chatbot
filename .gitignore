@@ -1,0 +1,14 @@
+# Sanal ortam
+.venv/
+venv/
+
+# Python ara dosyaları
+__pycache__/
+*.pyc
+
+# PyCharm ayarları
+.idea/
+
+# Vektör veritabanı (yeniden üretilebilir)
+chroma_db/
+

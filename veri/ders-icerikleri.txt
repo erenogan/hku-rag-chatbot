@@ -1,0 +1,309 @@
+Ders İçerikleri | Bilgisayar Mühendisliği | Hasan Kalyoncu Üniversitesi
+Ders İçerikleri
+Ders Kodu ve Adı:
+CENG101 Bilgisayar Mühendisliğine Giriş
+Kredi / AKTS:
+3 0 3 5
+Ders İçeriği:
+Bu derste öğrencilere temel bilgisayar mühendisliği kavramları tanıtıcı düzeyde tanıtılacaktır. Öğrencilere hesaplamanın tarihçesi ve evrimi ve bilgi teknolojisinin toplum üzerindeki etkisi tanıtılmaktadır.
+Ders Kodu ve Adı:
+CENG111 Bilgisayar Programlama I
+Kredi / AKTS:
+3 2 4 5
+Ders İçeriği:
+Python programlama dilinde ileri seviyede ve C programlama dilline giriş seviyesinde programlama konularının yer aldığı iki dersin ilkidir. Özellikle Python programla dilinde öğretilen konular şu şekildedir. Algoritma kavramı. Akış diyagramları. Yapısal programlama kavramı. Modüler programlama. Dosya işleme. Listeler ve uygulamaları.
+Ders Kodu ve Adı:
+PHYS101 Genel Fizik I
+Kredi / AKTS:
+3 2 4 6
+Ders İçeriği:
+Bir ölçümdeki sonuçların anlamı ve hassasiyetlerinin tanımı. Vektörel niceliklerin değişik metotlar kullanılarak ifade edilmesi. Bir ve çok boyutta hareketin tanımlanması ve çeşitli problemlere uygulamaları. Newton`un hareket kanunlarının ve korunum kanunlarının taktimi ve çeşitli problemlere uygulamaları. Dönme hareketinin tanımlanması ve özellikle denge durumunda olan katı cisimlere uygulanması. Mekanik yasalarını gezegenlerin hareketlerinin tanımlanmasında ve akışkanlar mekaniğinde kullanılması.
+Ders Kodu ve Adı:
+MATH111 Matematik I
+Kredi / AKTS:
+3 2 4 6
+Ders İçeriği:
+Trigonometrik, Üstel, Ters ve Logaritmik Fonksiyonlar. Limit. Süreklilik. Sonsuzluk içeren limit. Türev. Zincir Kuralı. Kapalı Türev. Ters trigonometrik fonksiyonların türevleri. Extremum değerleri. 1. Türev testi. Konkavlık. Eğri Çizimi. İntegral. Matematiksel Hesabın Temel Teoremi. Alan Hesabı. Kısmi integral. Trigonometrik integral. Trigonometrik dönüşümler. İntegral Teknikleri
+Ders Kodu ve Adı:
+ENG101 Mesleki İngilizce I
+Kredi / AKTS:
+3 0 3 4
+Ders İçeriği:
+Bilgisayar Mühendisliği bölümündeki öğrencilere yönelik İngilizce bir giriş dersi. Bilgisayar Mühendisliği alanında konuşulan ve okunanlara eşit bir vurgu vardır. Dersin odak noktası, Bilgisayar Mühendisliği kullanarak çalışma alanı olarak İngilizce konuşmayı ve yazmayı içerir. Ders iki bölüme ayrılmıştır:
+1) Sözlü Yeterlilik – doğru telaffuz ve tarz dikkate alınarak tartışma ve sunumdan oluşur.
+2) Rapor okumak ve yazmak – teknik bir konuda bir rapor ve Bilgisayar Mühendisliği alanıyla ilgili konulardan oluşur.
+Ders Kodu ve Adı:
+TÜR101 Türk Dili ve Edebiyatı I
+Kredi / AKTS:
+2 0 2 2
+Ders İçeriği:
+Dil ve Diller: Dil Millet İlişkisi, Dil Kültür İlişkisi Yeryüzündeki Diller ve Türk Dilinin Dünya Dilleri arasındaki Yeri; Kaynakları bakımından Dil Aileleri, Türk Yazı Dilinin tarihi gelişimi; Eski Türkçe, Orta Türkçe, Divanü Lügat it Türk, Atabetü;l- Hakayık, Harezm Türkçesi, Eski Türkiye Türkçesi (Eski Anadolu Türkçesi) ; Yeni Türkçe Dönemi, Modern Türkçe Dönemi, Batı, Güney Batı Türkçesi), Türkiye Türkçesi, Doğu ( Kuzey ) Doğu Türkçesi) , Karatay Türkçesi, Ses Bilgisi (FONETİK) , Ses ve sesin oluşumu, büyük ve küçük ünlü uyumu, Türkçedeki başlıca ses olayları; Türkçenin ses özellikleri, Türkçenin hece yapısı, cümle vurgusu. Şekil Bilgisi (MORFOLOJİ- BİÇİM BİLGİSİ), şekil bakımından kelimeler, kökler, gövdeler, ekler (yapım ekleri, çekim ekleri) , anlatım ve vazifeleri bakımından kelimeler; isimler, sıfatlar, zamirler, fiiller, fiil çekimi, şekil ve zaman ekleri, fiilimsiler, edatlar, fiilden türeyenler ve isimden türeyenler, anlam bilimi; kelimede anlam, kelimenin anlam çerçevesi, cümle bilgisi; cümle çeşitleri, cümle tahlilleri.
+Ders Kodu ve Adı:
+FE101 Sosyal Sorumluluk Projesi
+Kredi / AKTS:
+0 2 0 1
+Ders İçeriği:
+Toplumun güncel sorunlarını belirleme ve çözüm üretmeye yönelik projeler hazırlama. Sosyal sorumluluk çerçevesinde çeşitli projelerde gönüllü olarak yer alma. Katılımcı ve demokratik bireyler olma, dayanışma veişbirliğini pekiştirme, sorumluluk alma ve proje geliştirme/uygulama. Sivil toplum kuruluşları. Avrupa düzeyinde gerçekleştirilen gençlik ve sosyal sorumluluk projeleri alanlarındaki güncel tartışmalar.
+Ders Kodu ve Adı:
+INT100 Üniversite Hayatına Giriş
+Kredi / AKTS:
+1 0 1 1
+Ders İçeriği:
+Öğrencilerin üniversite hayatına alışmaları için tanıtım amaçlı oryantasyon eğitimi. Dersin araç ve gereçlerinin üniversitede nasıl kullanılacağı, kampüs turu, şehir turları, bölümler hakkında genel bilgiler, seminerler ve çeşitli sosyal aktiviteler bu dersin içeriğini oluşturur.
+Ders Kodu ve Adı:
+MATH114 Ayrık Matematik
+Kredi / AKTS:
+4 0 4 5
+Ders İçeriği:
+Kümeler, ilişkiler ve fonksiyonlar, veri yapıları uygulamaları ve çizge gösterilişi, kısmi sıralama kümeleri, ağaç yapışarı, cebirsel yapılar,kafesler ve Boolean cebiri, yarı gruplar, gruplar, makine dilleri ve dilbilgisine giriş, hata düzeltme kodları.
+Ders Kodu ve Adı:
+CENG112 Bilgisayar Programlama II
+Kredi / AKTS:
+3 2 4 5
+Ders İçeriği:
+Python programlama dilinde ileri seviyede ve C programlama dilline giriş seviyesinde programlama konularının yer aldığı iki dersin ikincisidir. İlk dersin devamı olarak Python programla dilinde yer alan konular şu şekildedir. Tuples ve uygulamaları. Dizgiler ve dizgi işleme. Sözlükler ve setler. Bu dersin ikinci kısmı olarak C programlama dilinde öğretilecek konular şu şekildedir. C programlamaya giriş.  Yapısal programlama. Program kontrol ifadeleri ve yapıları. Fonksiyonlar. Diziler ve sıralama, arama ve çok boyutlu dizilerin arasında yer aldığı uygulamalar. İşaretçiler ve uygulamaları.
+Ders Kodu ve Adı:
+PHYS102 Genel Fizik II
+Kredi / AKTS:
+3 2 4 6
+Ders İçeriği:
+Yük ve elektrik alanların tanımlanması. Noktasal bir yükten veya bir yük dağılımınından kaynaklanan elektrik alanın tayin edilmesi. Simetrik yük dağılımlarında Gauss yasasının kullanılması. Temel devre elemanlarının esasları. Manyetik alanın tanımı ve manyetik alan kaynakları. İndüksiyon ve temel doğru ve değişken akım devrelerinin analizi. Maxwell denklemlerinin kullanılmasıyla ışığın bir elektromanyetik dalga olarak tanımlamak.
+Ders Kodu ve Adı:
+MATH112 Matematik II
+Kredi / AKTS:
+4 0 4 6
+Ders İçeriği:
+Ters türev. Alan hesabı ve sonlu toplamlar ile yaklaşım. Sonlu toplamlar limiti. Belirli integral. Matematik hesabın temel teoremi. Belirsiz integral ve yerine koyma metodu. Eğriler arasında kalan alan. Dik kesitler kullanarak hacim hesabı. Silindirik kabuklar kullanarak hacim hesabı. Ters fonksiyonlar ve türevleri. Doğal logaritma. Üstel fonksiyonlar. L’Hospital Kuralı, Kısmi integral, Trigonometrik integral, Genelleştirilmiş integral, Diziler, sonsuz seriler, integral testi, karşılaştırma testi, oran ve kök testi, Kuvvet serileri, Taylor ve Maclaurin serileri, Taylor serilerinin yakınsaklığı.
+Ders Kodu ve Adı:
+ENG102 Mesleki İngilizce II
+Kredi / AKTS:
+3 0 3 4
+Ders İçeriği:
+Bu ders, ikinci dönem Bilgisayar Mühendisliği öğrencilerini, öğrencilerin teknik rapor oluşturma ve teknik sözlü sunum yapma yeteneklerini geliştirmeye ve pekiştirmeye hazırlar. Bu dersin amacı, öğrencilerin yazılı ve sözlü iletişimde etkili, profesyonel bir şekilde raporlamalarına yardımcı olmaktır. Konular arasında bilgiye erişmek, soyutlamak, analiz etmek, organize etmek ve özetlemek; Etkili gramer ve sözlük seçiminin yapılması; teknik rapor yazma; ve teknik sunumlar.
+Ders Kodu ve Adı:
+TÜR102 Türk Dili ve Edebiyatı II
+Kredi / AKTS:
+2 0 2 2
+Ders İçeriği:
+İmla, noktalama ve kompozisyon (noktalama işaretleri, diğer işaretler) , İmla, yazım kuralları (büyük harflerin imlası, sayıların yazılışı, kısaltmaların imlası, alıntı kelimelerin yazılışı) , Kompozisyon (kompozisyonun amacı, kompozisyon yazmada yöntem) , kompozisyonda plan, giriş, gelişme, sonuç, Anlatım özellikleri, anlatımda duruluk, anlatımda sadelik, anlatımda açıklık içtenlik, Anlatım bozuklukları ( eş anlamlı kelimelerin cümle içinde kullanılışı) , Deyimlerin yanlış kullanılışı, Anlatım biçimleri (açıklama, hikâye, özlü anlatım, tasvir, hiciv, portre, kanıtlama, konuşma, manzum anlatım çeşitleri) , Sözlü anlatım çeşitleri (günlük ve hazırlıksız konuşma, hazırlıklı konuşma, açıkoturum, münazara, panel) , Yazılı anlatım türleri (mektup, telgraf, tebrik, davetiye, edebi mektup) , iş mektupları, resmi mektup, dilekçe, rapor, tutanak, karar, ilan, reklam, sohbet, eleştiri, anı, gezi yazısı, röportaj, anket, Otobiyografi, biyografi, roman, hikaye, masal, fabl, tiyatro, trajedi, dram, senaryo).
+Ders Kodu ve Adı:
+FE102 Teknoloji ve Ar&Ge Yönetimi
+Kredi / AKTS:
+2 0 2 2
+Ders İçeriği:
+İnovasyonun tanımı ve önemi, inovasyon türleri, inovasyon stratejiler, yeni ürün geliştirme.
+Girişimciliğin tanımı ve önemi, girişimcilik türleri, girişimcilik stratejileri, iş modelleri, girişimcilik, ürün portföyü yönetimi.
+Proje nedir ve modern proje yönetimi tanımı.
+Proje süre ve maliyetini tahmin etmek, cpm metodu.
+Çevre hukukunu ilgilendiren konularda genel bilgi sahibi olmak, patent ve fikri sinai haklar konusunda bilgi sahibi olmak.
+Ürün geri kazanım seçenekleri: Geri dönüşüm, onarım, yenileme, yeniden üretim.
+Ders Kodu ve Adı:
+CENG211 Nesne Tabanlı Programlama
+Kredi / AKTS:
+3 2 4 6
+Ders İçeriği:
+Nesneye Yönelik Programlama kavramlarını tanıtır. İyi biçimlenmiş programlar tasarlayabilmek için araçlar, yapılar, biçimler ve temel nesneye yönelik programlama tekniklerini sunar. Sınıflar, nesneler, metotlar, kalıtım, çok biçimlilik, hata kotarma ve şablonlar gibi kavramları işler.
+Ders Kodu ve Adı:
+EE205 Devre Analizi
+Kredi / AKTS:
+3 2 4 6
+Ders İçeriği:
+Değerli öğrenciler, devre analizi dersine hoş geldiniz. Bu ders, planlı eğitim sürecinde öğrenmeniz gereken elektrik akımı etkileri ile ilgili temel esasları, temel ve karmaşık devre çözebilme, doğru akımın devre elemanları üzerindeki etkilerini hesaplayabilme gibi yetenekleri kazandırmak için işlenmektedir. Dersin değerlendirilmesi vize, ödev-laboratuvar ve final sınavlarıyla yapılacaktır.
+Ders Kodu ve Adı:
+EE243 Sayısal Mantık Tasarımı
+Kredi / AKTS:
+3 2 4 6
+Ders İçeriği:
+Değerli öğrenciler, sayısal mantık tasarımı dersine hoş geldiniz. Bu ders, planlı eğitim sürecinde öğrenmeniz gereken sayısal elektronik devre elemanları, logic diyagramların çizimi ve analizi, istenen logic devrelerin tasarımı, donanım ve yazılım tabanlı modelleme, iletişim araçlarını kullanabilme ve öğrenilen teorik bilginin deneyini tasarlama, gerçekleştirme, verileri analiz etme ve yorumlama gibi yetenekleri kazandırmak için işlenmektedir. Temel saklama elemanlarının içeriği, görevi, kullanım alanları ve çalışma şekilleri anlatılmaktadır. Dersin değerlendirilmesi vize, ödev, laboratuvar ve final sınavlarıyla yapılacaktır.
+Ders Kodu ve Adı:
+MATH211 Doğrusal Cebir
+Kredi / AKTS:
+3 0 3 5
+Ders İçeriği:
+Doğrusal denklem sistemleri. Matrisler. Matris işlemlerinin cebirsel özellikleri. Özel matris türleri. Bir matrisin Echelon formu. Gauss-Jordan indirgemesi ile lineer sistemlerin çözümü. Satır küçültmeyle bir matrisin tersini bulmak. Eşdeğer matrisler. Determinantlar. Determinantların özellikleri. Kofaktör büyümesi. Bir matrisin tersi (determinantı ile). Diğer determinant uygulamaları (Cramers kuralı). Düzlemde ve 3 uzayda vektörler. Vektör uzayları Alt uzaylar. Yayılma ve doğrusal bağımsızlık. Temel ve boyut Satır alanı. Boş alan. Boşluk ve bir matrisin rankı. Homogeneos sistemleri. Baz değişimi. Geçiş matrisleri. Ortogonalleştirme. Doğrusal dönüşümler. Doğrusal dönüşümün çekirdeği ve aralığı
+Ders Kodu ve Adı:
+FE201 Mühendislik Etiği
+Kredi / AKTS:
+2 0 2 2
+Ders İçeriği:
+Etik değerler, Etik ve ahlak kavramları arasındaki ilişki, Etik ilkelerine uygun davranma, Mesleki ve etik sorumluluk bilinci, Mühendislik etiği, Mühendislik etiğine ilişkin ulusal ve uluslararası kurumların ilkeleri, Mühendislik etiği ölçme değerlendirme yöntemleri, Mühendislik etiği kodları, Mühendislik çözümlerinin hukuksal sonuçları.
+Ders Kodu ve Adı:
+AİİT201 Atatürk İlkeleri ve İnkılap Tarihi I
+Kredi / AKTS:
+2 0 2 2
+Ders İçeriği:
+Osmanlı Devleti’nin yıkılışını hazırlayan iç ve dış sebepler; XIX. Yüzyılda Osmanlı Devleti’nde yenilik hareketleri; Osmanlı Devleti’nin son dönemindeki fikir akımları; XX. Yüzyılın başında Osmanlı Devleti’nin siyasi ve askeri durumu; I. Dünya Savaşı ve Ermeni meselesi; Anadolu’nun işgali ve tepkiler; Mustafa Kemal Paşa’nın Samsun’a çıkışı ve faaliyetleri; kongreler dönemi ve teşkilatlanma; son Osmanlı Mebuslar Meclisi’nin açılışı ve Misak-ı Millî’nin kabulü; Millî Mücadele’ye hazırlık ve bu hazırlığın maddi ve manevi temeller; TBMM’nin açılışı ve faaliyetleri; Sevr Antlaşması; Güney ve Doğu cephelerindeki mücadeleler; düzenli ordunun kuruluşu, Yunan taarruzu ve Batı cephesindeki savaşlar, Mudanya Mütarekesi’nin imzalanması, Lozan Konferansı’nın toplanması ve Barış Antlaşması’nın imzalanması konularını kapsamaktadır.
+Ders Kodu ve Adı:
+CENG212 Veritabanı Yönetim Sistemleri
+Kredi / AKTS:
+3 2 4 6
+Ders İçeriği:
+Veritabanı kavramları. Bağıntı modeli, bağıntı cebri, sorgulama. Uygulama geliştirme. Veritabanı tasarımı, normalizasyon, varlık-ilişki modeli. Eşzamanlı çalışma, hareketler, kilitler. Nesneye dayalı veritabanları, nesne/bağıntı eşleştirmesi, XML veri modeli ve sorgulama.
+Ders Kodu ve Adı:
+CENG214 Veri Yapıları
+Kredi / AKTS:
+3 2 4 6
+Ders İçeriği:
+Veri Yapılarına Giriş: İlkel veri yapıları. Bilgilerin hafıza gösterimi. Diziler ve dizilerin bellek dağılımı. Yapılar: Yapı dizileri. Yapılar ve İşlevler. Dinamik bellek ayırma. Yığın: Soyut Veri Türü Olarak Yığın. İlkel işlemler. C’de yığının gösterimi. Infix, Postfix ve Prefix notasyonları; Post-to-Postfix dönüşümü. Özyineleme Özyinelemeli tanım. Örnekler: Faktör işlevi. Fibonacci Dizisi. Kuyruklar: Soyut Veri Türü Olarak Kuyruk. Kuyrukların C uygulaması. Bağlantılı Listeler: Bir Listeden Düğüm Ekleme ve Çıkarma. Dairesel Listeler, İkili Bağlantılı Listeler. Ağaçlar: İkili Ağaçlarda İşlemler. İkili Ağaç Gösterimleri. İkili Ağaç Geçişi. İkili ağaç oluşturma. Sıralama: Sıralama Verimliliği. Arama: Sıralı Arama. Ikili arama. İkili Arama Ağaçları.
+Ders Kodu ve Adı:
+CENG202 Bilgisayar Mimarisi ve Organizasyonu
+Kredi / AKTS:
+3 0 3 5
+Ders İçeriği:
+Bu ders bilgisayar organizasyonu ve mimarisine genel bir bakış sağlar. Bir bilgisayarın ana bileşenleri ve aralarındaki bağlantılar. Bilgisayar aritmetiği ve mantık. İşlemcinin iç mimarisi ve organizasyonu. Azaltılmış komut seti bilgisayarının (RISC) ve süperskalar yaklaşımların tartışılması. Paralel hesaplamaya giriş.
+Ders Kodu ve Adı:
+MATH212 Diferansiyel Denklemler
+Kredi / AKTS:
+3 0 3 5
+Ders İçeriği:
+Türevsel denklemlerin sınıflandırılması, çözümleri, başlangıç değeri ve sınır değeri problemleri, çözümlerin varlığı, Yüksek dereceli doğrusal türevsel denklemlerin çözüm yöntemleri, Elektrik devreleri problemleri, Laplace Dönüşümü; tanımlar, teoremler, örnekler, sabit katsayılı doğrusal başlangıç değer problemlerinin çözümü, teoremler, büklüm integrali ve teoremi. Dürtü fonksiyonu ve yanıtı, sistem fonksiyonu. Doğrusal türevsel denklem sistemleri ve çözümleri.
+Ders Kodu ve Adı:
+BIO202 Biyoloji
+Kredi / AKTS:
+3 0 3 4
+Ders İçeriği:
+Biyoloji biliminin temel kavramlarına giriş yapılmaktadır. Konular, moleküllerden başlayıp organizmalara kadar uzanmaktadır. Kalıtım şekilleri, DNA’nın yapı ve işlevi, gen ekspresyon ve regülasyonu, genetik mühendisliği, DNA teknolojisi ve genomik yapılar gibi diğer temel konuları da içeren derstir. Ayrıca mühendisliğin biyolojiye uygulandığı alanlar olan biyoinformatik, sentetik biyoloji ve nanobiyoteknoloji gibi konuları da içermektedir.
+Ders Kodu ve Adı:
+AİİT202 Atatürk İlkeleri ve İnkılap Tarihi II
+Kredi / AKTS:
+2 0 2 2
+Ders İçeriği:
+Siyasi alanda yapılan inkılaplar (Saltanatın kaldırılması, Cumhuriyet’in ilanı, Halifeliğin kaldırılması vb); sosyal alanda yapılan inkılaplar (Şapka inkılabı, Tekke ve zaviyelerin kapatılması, Takvim, Saat ve Soyadı Kanunu ); eğitim ve kültür alanında gerçekleştirilen inkılaplar (Tevhid-i Tedrisat Kanunu, Harf inkılabı, Türk Tarih ve Dil inkılabı); hukuk alanında yapılan inkılaplar; Atatürk dönemi çok partili hayata geçiş denemeleri ve tepkiler (Terakkiperver Cumhuriyet Fırka’nın kuruluşu ve kapatılması, Şeyh Sait isyanı ve Atatürk’e suikast girişimi); Atatürk dönemi çok partili siyasal hayata geçiş denemeleri (Serbest Cumhuriyet Fırkası’nın kuruluşu, kapatılması ve Menemen Olayı); Cumhuriyet döneminde Türkiye’nin ekonomik kaynakları ve politikası (İzmir İktisat Kongresi); Atatürk dönemi Türk dış politikası (Nüfus Mübadelesi, Milletler Cemiyeti’ne üyelik, Balkan Antantı ve Sadabat Paktı); Atatürk dönemi Türk dış politikası (Montrö Boğazlar Sözleşmesi, Hatay’ın Anavatan’a katılması, Türkiye’nin diğer ülkelerle olan ikili münasebetleri); Atatürk düşünce sisteminin tanımı, kapsamı ve Atatürk ilkeleri; Atatürk’ten sonra Türkiye, Demokrat Parti’nin iktidar yılları, 1960 ve 1970’li yıllarda Türkiye, 1960 sonrası Türkiye’nin dış politikası.
+Ders Kodu ve Adı:
+FE202 İş Sağlığı ve Güvenliği
+Kredi / AKTS:
+2 0 2 2
+Ders İçeriği:
+Bu ders, iş sağlığı ve güvenliği hakkındaki temel kavramlar ve tarihsel gelişim kavramlarını; işyerindeki işyeri hekimi ve iş güvenliği uzmanının görev yetki ve sorumluluklarını; risk, tehlike, birincil, ikincil, üçüncül koruma kavramlarını; fiziksel, kimyasal, biyolojik ve psikososyal riskler; işyerlerindeki iş sağlığı ve güvenliği mevzuatı ve işyerindeki uygulamalar konularını içerir.
+Ders Kodu ve Adı:
+CENG301 Algoritma Analizi
+Kredi / AKTS:
+3 2 4 5
+Ders İçeriği:
+Algoritmaların tanımı ve özellikleri. Algoritmaların tasarımı, analizi ve gösterimi. Hesaplama modelleri. Matematiksel Temeller: Fonksiyonların büyümesi, asimptotik gösterimler. Özyinelemeli algoritmalar ve ilişkili yineleme ilişkilerinin incelenmesi (ikame metodu, yineleme metodu, özyineleme ağaçları, ana metot). Algoritmalar için tasarım paradigmaları: Brute-Force (Kapsamlı Arama), Böl ve Fethet (Birleştirme Sıralama, İkili Arama Ağacı). Dinamik Programlama (Matris Zinciri çarpımı, LCS uzunluğu, Sırt Çantası Problemi, vb.). Açgözlü algoritmalar (Kesirli Sırt Çantası Problemi).
+Ders Kodu ve Adı:
+CENG311 Veri İletişimi ve Bilgisayar Ağları
+Kredi / AKTS:
+3 2 4 6
+Ders İçeriği:
+Bu derste, öğrencilere ağ dünyası tanıtılacak ve onlara çoğu oluşan alt alanların genel tanıtımı yapılacaktır (ağ protokolleri, LAN servisleri, WAN hizmetleri, yönlendirme, ağ programlama, ağ yönetimi, QoS, İnternet telefonu, vb.). Bu konulardan bazıları, öğrencilere ağ donanımı ve konfigürasyonuyla ilgili sağlam bir temel sağlamak için Cisco ağ laboratuarında çalışılacaktır.
+Ders Kodu ve Adı:
+CENG313 Web Programlama
+Kredi / AKTS:
+3 2 4 6
+Ders İçeriği:
+Internet ve World Wide Web. .NET ve PHP geliştirme platformlarına genel bakış. Nesne yönelimli kavramlar C#. Veritabanları ve veri erişimi. PHP ve ASP.NET’e giriş. Gelişmiş web formları ve PHP sayfaları. Web servisleri. Tasarım konuları.
+Ders Kodu ve Adı:
+EE331 Sinyaller ve Sistemler
+Kredi / AKTS:
+3 0 3 4
+Ders İçeriği:
+Sinyallerin sınıflandırılması, temel sinyaller, sistemlerin sınıflandırılması ve özellikleri, Doğrusal Zamanla Değişmeyen (LTI) sistemlerin zaman alanı karakterizasyonu, Sürekli Zamanlı ve Ayrık Zamanlı Fourier Serileri, Sürekli Zamanlı ve Ayrık Zamanlı Fourier Dönüşümleri, Doğrusal Zamanla Değişmeyen (LTI) sistemlerin Frekans alanı karakterizasyonu, Örnekleme. Laplace ve z dönüşümleri ve uygulamaları.
+Ders Kodu ve Adı:
+MATH331 Olasılık ve İstatistik
+Kredi / AKTS:
+3 0 3 5
+Ders İçeriği:
+Olasılığa giriş, kombinasyon, permütasyon, bağıl frekans yaklaşımı, olasılığın aksiyomları, küme teorisi, koşullu olasılık, Bayes teoremi, istatistiksel bağımsızlık kavramı, karşılıklı seçkin olaylar, ayrık raslantı değişkenleri, olasılık kütle ve dağılım fonksiyonları, beklenen değer, varyans, Bernoulli, Binom ve Poisson raslantı değişkenleri, sürekli raslantı değişkenleri, bunların olasılık yoğunluk ve dağılım fonksiyonları, sürekli raslantı değişkenlerinin beklenen değeri ve varyansı, düzgün, Gauss (normal) ve üstel raslantı değişkenleri, bir raslantı değişkeninin fonksiyonun yoğunluk fonksiyonu, bileşik olasılık yoğunluk fonksiyonu, bağımsız raslantı değişkenlerinin fonksiyonunun yoğunluk fonksiyonu, rasgele süreçlere giriş.
+Ders Kodu ve Adı:
+CENG302 Yazılım Mühendisliği
+Kredi / AKTS:
+3 0 3 4
+Ders İçeriği:
+Yazılım geliştirme metodolojileri. Gereksinim analizi, Yazılım Sistemlerinin Tasarımı ve Uygulaması, Kodlama, Birim, Entegrasyon ve Sistem Testi. Kalite Güvencesi ve Proje Yönetimi. Araçlar ve Standartlar.
+Ders Kodu ve Adı:
+CENG304 İşletim Sistemleri
+Kredi / AKTS:
+3 0 3 5
+Ders İçeriği:
+Bilgisayar mimarisi, proses yönetimi, prosesler arası senkronizasyon, prosesler arası iletişim, semaforlar ve monitörler, kilitlenmeler, CPU planlama algoritmaları, bellek yönetimi, sanal bellek, dosya sistemleri, giriş/çıkış sistemleri ve disk planlaması.
+Ders Kodu ve Adı:
+CENG306 Yapay Zeka
+Kredi / AKTS:
+3 0 3 5
+Ders İçeriği:
+YZ, insanlar tarafından daha kolay ve daha iyi gerçekleştirilen görevlerin bilgisayarlar tarafından da yapılabilmesi ile ilgilenen bir bilim dalıdır. Bu dersin temel amacı yapay zekânın bazı teorik temellerini vermektir. Genel olarak hem teorik hem de uygulama arka planını tamamıyla vurgulamaktır.
+Ders Kodu ve Adı:
+CENG314 Mikroişlemciler
+Kredi / AKTS:
+3 2 4 6
+Ders İçeriği:
+Konular, mikroişlemci mimarisi ve yapısını, 8-16- ve 32-bit sistemlere genel bakış, derleme dili programlama ve üst seviye dillerin kullanımını içerecektir. El sıkışma ve seri protokoller ve paralel iletişimleri içeren temel giriş / çıkış. Donanım ve yazılım zamanlaması. Kesintileri ve istisnaları kullanma. Tek çipli mikroişlemciler ve denetleyicilere genel bakış Çevre birimlerinin iç yapısı ve tasarımı. Bellek sistemi tasarımı ve analizi. (Çapraz) montajcı veya derleyiciler, geliştirme programları, simülatörler, emülatörler, vb. geliştirme araçlarının kullanımı ve yapısı.
+Ders Kodu ve Adı:
+CENG499 Bitirme Projesi
+Kredi / AKTS:
+0 8 4 5
+Ders İçeriği:
+Projeler, öğrencilerin bilgileri uygulama, analiz etme, sentezleme, değerlendirme ve iletişim kurma becerilerini gösterecek. Bu, yaşam boyu öğrenmeyi genişletmek ve desteklemek için bir fırsattır. Öğrenciler, projelerini öğretim üyelerinin gözetiminde ve denetiminde tamamlarlar. Bu dersin sonunda öğrenciler tasarım, analiz, uygulama, test ve değerlendirme aşamalarından geçen önemli bir bütün sunmalıdır.
+Ders Kodu ve Adı:
+FE401 Çok Disiplinli Entegre Proje
+Kredi / AKTS:
+0 8 4 5
+Ders İçeriği:
+Bu ders, öğrencilere teoriyi kendi mühendislik disiplinlerinin dışındaki alanları içeren pratik gerçek dünya problemleriyle bağlantılandırmaya zorlayan problem durumlarını tanıtarak mühendislik disiplinlerini (İnşaat, Elektrik, Mekanik ve bilgisayar mühendisliği) tanıma fırsatı verir.Çok disiplinli bir takım ortamı, öğrencileri kendileri gibi düşünmesi gerekmeyen insanlarla etkileşime girmeye ve diğer ekip üyelerinin sağladığı becerilere değer vermeye zorlar. Mezun olan her öğrencinin lisans kariyeri boyunca “multidisipliner bir deneyimi” olacaktır. Multidisipliner entegre bir projenin kullanılması, bu tür bir deneyime ulaşmak için çekici bir yol sağlar.Bu derste, gerçek dünya multidisipliner tasarım deneyimleri HKU mezunlarını bugünün işgücüne girmeye hazırlamak için kullanılmaktadır. Farklı mühendislik bölümlerinden lisans öğrencileri, fakülte danışmanlarıyla sırayla performans sözleşmeleri (bazı mütevazı ekip görevleri için) imzalayabilirler. Öğrenci katılımcılarının bu tür “dikey ve yatay entegrasyonu”, tasarım ekibi organizasyonunun erken bir önizlemesine ve hem iyi hem de kötü takım davranışlarını görüntüleme konusunda ilk elden deneyime olanak tanır. Ekip, hem ürünü hem de şirketi, birincisi tipik bir mühendislik ürünü veya süreci ve ikincisini kurumsal bir iş planının geliştirilmesi yoluyla tasarlayabilir.
+Ders Kodu ve Adı:
+CENG401 Programlama Dili Kavramları
+Kredi / AKTS:
+3 0 3 5
+Ders İçeriği:
+Programlama dillerinin yapısı. Kavramlar ve Paradigmalar. Değerler ve Tipler. Değişkenler ve Depolama. Bağlamalar, Kapsam ve Çalışma Zamanı Depolaması. İşlemsel Soyutlama ve Kapsülleme. Veri Soyutlama ve Kapsülleme. Tip Sistemleri. Kontrol Akışı. Fonksiyonel bir dil ve C ++ kavramları.
+Ders Kodu ve Adı:
+FE400 Endüstride Uygulamalı Eğitim
+Kredi / AKTS:
+0 8 4 30
+Ders İçeriği:
+Staj denetlenen, profesyonel bir ortamda öğrencilere yeteneklerini ve bilgi birikimini uygulamalarına izin veren meslek öncesi öğrenme deneyimidir. Bu deneyimler planlanan bir kariyer için bir iş, endüstri veya devlet kurumuyla öğrencilerin hazır olmalarını arttırmak/geliştirmek için tasarlanır. Endüstride uygulamalı eğitim (CO-OP) akademik kurumlarla iş dünyası arasındaki bir ortaklıktır. Öğrenciler için; iş, endüstri veya bir devlet kurumundaki bir örgün eğitim ve uygulamalı eğitim, teori ve uygulamanın bir harmanlaması, yeni yetenekler ve tecrübe, rekabetçi gelir ve kariyer seçiminin doğrulanmasıdır. Endüstride uygulamalı eğitim (CO-OP) stajdan farklıdır. 14 haftalık bir süreyi (bir yarı dönemi) kapsamaktadır. Endüstride uygulamalı eğitime (COOP) tabi bir öğrenci tam zamanlı çalışmak zorundadır.
+Ders Kodu ve Adı:
+CENG303 Biçimsel Diller ve Otomata
+Kredi / AKTS:
+3 0 3 4
+Ders İçeriği:
+Formal İspatlar. Sonlu makina, Düzeni ifadeler, ve her iki notasyonu bağlayan algoritmalar. Düzenli diller için Pompalama Ön Önermesi ve düzenli dillerin özellikleri. Bağlamdan bağımsız gramerler. Bağlamdan bağımsız diller için Pompalama Ön Önermesi ve bağlamdan bağımsız dillerin özellikleri. Pushdown makineler ve Turing Makineleri.
+Ders Kodu ve Adı:
+CENG420 Makine Öğrenmesi
+Kredi / AKTS:
+3 0 3 5
+Ders İçeriği:
+ÖTMÖ’ye giriş, temel bilgiler ve matematiksel kavramlar; Örüntü Tanıma temelleri; Olasılıklar ve olasılık dağılımları; Regresyon ve Sınıflandırma İçin Doğrusal Modelleri Öğrenme; hesaplamalı sinir ağları modelleri ve Çekirdek Metodları; Grafik ve Karışım Modelleri ve EM; karma ve kombine modeller; modelleme örnekleme yöntemleri
+Ders Kodu ve Adı:
+CENG430 Bilgisayar Grafikleri
+Kredi / AKTS:
+3 0 3 5
+Ders İçeriği:
+Grafik sistemlerinin donanım ve yazılım bileşenleri. Fourier analizi, evirme, örnekleme ve niceleme. 2B ve 3B geometrik dönüşümler. İki boyutlu görüntüleme. Üç boyutlu görüntüleme: Boru hattını görüntüleme, parametreleri görüntüleme, projeksiyonlar, dönüşümleri görüntüleme, kırpma. Görünür yüzey tespiti. Aydınlatma modellerine giriş ve yüzey oluşturma.
+Ders Kodu ve Adı:
+CENG440 Siber Güvenlik
+Kredi / AKTS:
+3 0 3 5
+Ders İçeriği:
+Bu derste öğrencilere, kuruluşların karşılaştıkları gerçek dünya siber güvenlik zorlukları tanıtılacak ve bunları ele almak için diğer Bilgisayar Bilimleri dersleriyle kazanılan bilgi ve becerileri kullanma öğretilecektir. Bu ders aynı zamanda siber güvenliğin temel tanımlarını, siber tehditlere genel bir bakış sunar. Kriptoloji, Simetrik / asimetrik şifreleme, PKI, CA güven modeli, SSL / TLS (HTTPS, SFTP vb.). Kimlik doğrulama ve güvenli protokoller hakkında sağlam bir temel oluşturmak için bu derste şöyle konular ele alınacaktır: Mesaj doğrulama, dijital imza, dijital sertifikalar, doğrulama ve Karma İşlevler. Ders ayrıca, güvenlik işlemleri, risk yönetimi, güvenlik mühendisliği de dahil olmak üzere siber güvenlik yönetimi kavramlarını tanıtacaktır. Diğer konular: siber tehdit önleme mekanizmaları, ağ adli bilişimi ve web uygulama güvenliği.
+Ders Kodu ve Adı:
+CENG460 Java Programlama
+Kredi / AKTS:
+3 0 3 5
+Ders İçeriği:
+Özellikle çeşitli platformlar için programlamaya uyarlanmış son derece taşınabilir nesne yönelimli bir programlama dili olan Java’ya giriş.Bu giriş niteliğinde bir programlama dersi değildir – Gerçekten “ikinci” bir dil olarak Java dilinin öğretildiği bir derstir.
+Ders Kodu ve Adı:
+CENG462 Nümerik Analiz
+Kredi / AKTS:
+3 0 3 5
+Ders İçeriği:
+Bu derste öğrencilere matematiksel işlem kavramları ve algoritmanın sayısal hesaplamalar üzerindeki önemi tanıtılacaktır. Algoritmaların alt birimleri. Matris ve matris hesaplamaları. Doğrusal denklem sistemlerinin çözüm yöntemleri. Doğrusal olmayan denklem sistemlerinin çözüm yöntemleri. Eğri uydurma yöntemleri, enterpolasyon yöntemleri ve ekstrapolasyon yöntemleri. Sayısal türev yöntemleri. Sayısal entegrasyon yöntemleri. Farklılaşma denklemlerinin sayısal yöntemleri. Karmaşık sayılar.
+Ders Kodu ve Adı:
+CENG463 Robotiğe Giriş
+Kredi / AKTS:
+3 0 3 5
+Ders İçeriği:
+Giriş, Katı hareketler. Homojen dönüşümler. Robot ileri kinematiği. Robot ters kinematik. Diferansiyel kinematik ve Jacobeans. Hareket planlama ve yörünge oluşturma. Robot dinamiği. Mobil robotlar Bağımsız eklem kontrolü. Robot sensörleri ve aktüatörler.
+Ders Kodu ve Adı:
+CENG473 Görüntü İşleme ve Analizi
+Kredi / AKTS:
+3 0 3 5
+Ders İçeriği:
+Bu ders, görüntü işleme ve analizinde temel matematiksel kavramları, algoritmaları ve diğer yapı taşlarını tanıtır. Ders içeriği şunları içerir: görüntü algılama ve elde etme, gürültü giderme ve çapak alma gibi hem uzaysal hem de frekans alanlarında görüntü geliştirme ve restorasyon; renkli görüntü işleme; çeşitli görüntü sıkıştırma teknikleri; morfolojik Görüntü işleme, Görüntü kenarı tespiti, bölge segmentasyonu, havzalar; görüntü gösterimi ve açıklaması; ve son olarak nesne tanıma.
+Ders Kodu ve Adı:
+CENG477 Bilgi Güvenliği
+Kredi / AKTS:
+3 0 3 5
+Ders İçeriği:
+Bu ders şifreleme ve veri bütünlüğünde sağlam bir arka plan sağlar. Ayrıca, güvenlik özelliklerini, modellerini ve tehditlerini tanıtır. Ek olarak, bazı şifreleme protokollerine genel bir bakış sunar. Ayrıca risk yönetimi ve güvenlik politikasının temel ilkeleri de ele alınmaktadır. Seçilen konular için Cisco güvenlik laboratuarı oturumları yapılacak.

@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HKÜ Bilgisayar Mühendisliği Asistanı</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --lacivert: #16233f;
+    --lacivert-acik: #24406e;
+    --mavi: #2d6cdf;
+    --zemin: #eef1f6;
+    --kart: #ffffff;
+    --metin: #1c2536;
+    --metin-soluk: #6b7690;
+    --kenar: #dde3ee;
+    --bot-balon: #f3f6fc;
+    --golge: 0 10px 40px rgba(22, 35, 63, 0.12);
+  }
+
+  body {
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    background: linear-gradient(135deg, #e8edf6 0%, #dfe6f2 100%);
+    color: var(--metin);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+
+  .sohbet-kutusu {
+    width: 100%;
+    max-width: 720px;
+    height: 88vh;
+    max-height: 820px;
+    background: var(--kart);
+    border-radius: 20px;
+    box-shadow: var(--golge);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .baslik {
+    background: var(--lacivert);
+    color: #fff;
+    padding: 20px 24px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+  .baslik .logo {
+    width: 46px; height: 46px;
+    background: var(--mavi);
+    border-radius: 12px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 22px; font-weight: 700;
+    flex-shrink: 0;
+  }
+  .baslik h1 { font-size: 18px; font-weight: 600; }
+  .baslik p { font-size: 13px; opacity: 0.75; margin-top: 2px; }
+
+  .mesajlar {
+    flex: 1;
+    overflow-y: auto;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    background: var(--zemin);
+  }
+
+  .mesaj { display: flex; gap: 10px; max-width: 85%; }
+  .mesaj .balon {
+    padding: 12px 16px;
+    border-radius: 14px;
+    font-size: 15px;
+    line-height: 1.55;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+
+  .mesaj.kullanici { align-self: flex-end; flex-direction: row-reverse; }
+  .mesaj.kullanici .balon {
+    background: var(--mavi);
+    color: #fff;
+    border-bottom-right-radius: 4px;
+  }
+
+  .mesaj.bot .balon {
+    background: var(--bot-balon);
+    color: var(--metin);
+    border: 1px solid var(--kenar);
+    border-bottom-left-radius: 4px;
+  }
+
+  .avatar {
+    width: 34px; height: 34px;
+    border-radius: 50%;
+    flex-shrink: 0;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 14px; font-weight: 600;
+  }
+  .mesaj.bot .avatar { background: var(--lacivert); color: #fff; }
+  .mesaj.kullanici .avatar { background: var(--mavi); color: #fff; }
+
+  .karsilama {
+    text-align: center;
+    color: var(--metin-soluk);
+    padding: 30px 20px;
+  }
+  .karsilama h2 { font-size: 17px; color: var(--metin); margin-bottom: 8px; }
+  .karsilama p { font-size: 14px; margin-bottom: 20px; }
+  .ornek-sorular { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; }
+  .ornek-soru {
+    background: #fff;
+    border: 1px solid var(--kenar);
+    color: var(--lacivert-acik);
+    padding: 8px 14px;
+    border-radius: 20px;
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .ornek-soru:hover { background: var(--mavi); color: #fff; border-color: var(--mavi); }
+
+  .yaziyor { display: flex; gap: 4px; padding: 4px 0; }
+  .yaziyor span {
+    width: 8px; height: 8px;
+    background: var(--metin-soluk);
+    border-radius: 50%;
+    animation: zipla 1.2s infinite;
+  }
+  .yaziyor span:nth-child(2) { animation-delay: 0.2s; }
+  .yaziyor span:nth-child(3) { animation-delay: 0.4s; }
+  @keyframes zipla {
+    0%, 60%, 100% { transform: translateY(0); opacity: 0.4; }
+    30% { transform: translateY(-6px); opacity: 1; }
+  }
+
+  .giris-alani {
+    padding: 16px 20px;
+    background: #fff;
+    border-top: 1px solid var(--kenar);
+    display: flex;
+    gap: 10px;
+  }
+  #soru-kutusu {
+    flex: 1;
+    border: 1px solid var(--kenar);
+    border-radius: 12px;
+    padding: 12px 16px;
+    font-size: 15px;
+    font-family: inherit;
+    outline: none;
+    transition: border 0.15s;
+  }
+  #soru-kutusu:focus { border-color: var(--mavi); }
+  #gonder-btn {
+    background: var(--mavi);
+    color: #fff;
+    border: none;
+    border-radius: 12px;
+    padding: 0 22px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+  #gonder-btn:hover { background: #1f5bc4; }
+  #gonder-btn:disabled { background: #a9bce0; cursor: not-allowed; }
+
+  .kaynaklar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid var(--kenar);
+  }
+  .kaynak-baslik { font-size: 11px; color: var(--metin-soluk); width: 100%; margin-bottom: 2px; }
+  .kaynak-etiket {
+    background: #eaf0fb;
+    color: var(--lacivert-acik);
+    font-size: 11px;
+    padding: 3px 9px;
+    border-radius: 10px;
+    font-weight: 500;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background 0.15s;
+  }
+  .kaynak-etiket:hover { background: var(--mavi); color: #fff; }
+
+  .mesajlar::-webkit-scrollbar { width: 8px; }
+  .mesajlar::-webkit-scrollbar-thumb { background: #c9d3e6; border-radius: 4px; }
+</style>
+</head>
+<body>
+
+<div class="sohbet-kutusu">
+
+  <div class="baslik">
+    <div class="logo">HK</div>
+    <div>
+      <h1>Bilgisayar Mühendisliği Asistanı</h1>
+      <p>Hasan Kalyoncu Üniversitesi</p>
+    </div>
+  </div>
+
+  <div class="mesajlar" id="mesajlar">
+    <div class="karsilama" id="karsilama">
+      <h2>Merhaba!</h2>
+      <p>Bilgisayar Mühendisliği bölümü hakkında sorularını yanıtlayabilirim.</p>
+      <div class="ornek-sorular">
+        <div class="ornek-soru">Yapay zeka dersi var mı?</div>
+        <div class="ornek-soru">Bölüm başkanı kim?</div>
+        <div class="ornek-soru">Mezun olmak için kaç kredi gerekiyor?</div>
+        <div class="ornek-soru">Staj zorunlu mu?</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="giris-alani">
+    <input type="text" id="soru-kutusu" placeholder="Sorunu yaz..." autocomplete="off">
+    <button id="gonder-btn">Gönder</button>
+  </div>
+
+</div>
+
+<script>
+  const API_ADRESI = "http://127.0.0.1:8000/sor";
+
+  const mesajlarDiv = document.getElementById("mesajlar");
+  const soruKutusu = document.getElementById("soru-kutusu");
+  const gonderBtn = document.getElementById("gonder-btn");
+  const karsilama = document.getElementById("karsilama");
+
+  function mesajEkle(metin, kimden, kaynaklar) {
+    const mesaj = document.createElement("div");
+    mesaj.className = "mesaj " + kimden;
+
+    const avatar = document.createElement("div");
+    avatar.className = "avatar";
+    avatar.textContent = kimden === "kullanici" ? "S" : "HK";
+
+    const balon = document.createElement("div");
+    balon.className = "balon";
+    balon.textContent = metin;
+
+    if (kaynaklar && kaynaklar.length > 0) {
+      const kaynakDiv = document.createElement("div");
+      kaynakDiv.className = "kaynaklar";
+      kaynakDiv.innerHTML = '<div class="kaynak-baslik">Kaynaklar:</div>';
+      kaynaklar.forEach(function (k) {
+        const etiket = document.createElement("a");
+        etiket.className = "kaynak-etiket";
+        etiket.textContent = k.ad;
+        etiket.href = k.url;
+        etiket.target = "_blank";
+        kaynakDiv.appendChild(etiket);
+      });
+      balon.appendChild(kaynakDiv);
+    }
+
+    mesaj.appendChild(avatar);
+    mesaj.appendChild(balon);
+    mesajlarDiv.appendChild(mesaj);
+    mesajlarDiv.scrollTop = mesajlarDiv.scrollHeight;
+    return mesaj;
+  }
+
+  function yaziyorEkle() {
+    const mesaj = document.createElement("div");
+    mesaj.className = "mesaj bot";
+    mesaj.id = "yaziyor-gostergesi";
+    mesaj.innerHTML = '<div class="avatar">HK</div><div class="balon"><div class="yaziyor"><span></span><span></span><span></span></div></div>';
+    mesajlarDiv.appendChild(mesaj);
+    mesajlarDiv.scrollTop = mesajlarDiv.scrollHeight;
+  }
+  function yaziyorKaldir() {
+    const g = document.getElementById("yaziyor-gostergesi");
+    if (g) g.remove();
+  }
+
+  async function soruGonder() {
+    const soru = soruKutusu.value.trim();
+    if (!soru) return;
+
+    if (karsilama) karsilama.style.display = "none";
+
+    mesajEkle(soru, "kullanici");
+    soruKutusu.value = "";
+    gonderBtn.disabled = true;
+
+    yaziyorEkle();
+
+    try {
+      const yanit = await fetch(API_ADRESI, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ soru: soru })
+      });
+
+      const veri = await yanit.json();
+      yaziyorKaldir();
+      mesajEkle(veri.cevap, "bot", veri.kaynaklar);
+
+    } catch (hata) {
+      yaziyorKaldir();
+      mesajEkle("Sunucuya baglanilamadi. FastAPI calisiyor mu kontrol et (uvicorn api:app --reload).", "bot");
+    }
+
+    gonderBtn.disabled = false;
+    soruKutusu.focus();
+  }
+
+  gonderBtn.addEventListener("click", soruGonder);
+
+  soruKutusu.addEventListener("keydown", function (e) {
+    if (e.key === "Enter") soruGonder();
+  });
+
+  document.querySelectorAll(".ornek-soru").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      soruKutusu.value = btn.textContent;
+      soruGonder();
+    });
+  });
+
+  soruKutusu.focus();
+</script>
+
+</body>
+</html>

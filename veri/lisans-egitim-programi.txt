@@ -1,0 +1,834 @@
+Lisans Eğitim Programı | Bilgisayar Mühendisliği | Hasan Kalyoncu Üniversitesi
+Lisans Eğitim Programı
+2016-2018 Müfredatı
+1. Yarıyıl
+Dersin Kodu
+Dersin Adı
+Z/S
+T
+U
+K
+A
+COME101
+Bilgisayar Mühendisliğine Giriş
+Z
+3
+0
+3
+3
+INT100
+Üniversite Hayatına Giriş
+Z
+1
+0
+1
+1
+COME103
+Bilgisayar Programlama I
+Z
+3
+2
+4
+6
+PHYS101
+Genel Fizik I
+Z
+3
+2
+4
+6
+MATH151
+Matematik I
+Z
+4
+0
+4
+6
+ENG101
+Mesleki İngilizce I
+Z
+3
+0
+3
+4
+TÜR101
+Türk Dili ve Edebiyatı I
+Z
+2
+0
+2
+2
+SSP100
+Sosyal Sorumluluk Projesi
+Z
+2
+0
+2
+2
+Yarıyıl Toplam Kredi
+23
+30
+2. Yarıyıl
+Dersin Kodu
+Dersin Adı
+Z/S
+T
+U
+K
+A
+COME104
+Bilgisayar Programlama II
+Z
+3
+2
+4
+6
+COME108
+Çoklu Ortam ve Web Teknolojileri
+Z
+3
+0
+3
+4
+PHYS102
+Genel Fizik II
+Z
+3
+2
+4
+6
+MATH152
+Matematik II
+Z
+4
+0
+4
+6
+ENG102
+Mesleki İngilizce II
+Z
+3
+0
+3
+4
+TÜR102
+Türk Dili ve Edebiyatı II
+Z
+2
+0
+2
+2
+TRDM100
+Teknoloji ve ArGe Yönetimi
+Z
+2
+0
+2
+2
+Yarıyıl Toplam Kredi
+22
+30
+3. Yarıyıl
+Dersin Kodu
+Dersin Adı
+Z/S
+T
+U
+K
+A
+COME201
+Nesne Tabanlı Programlama
+Z
+3
+2
+4
+6
+COME205
+Veri Yapıları
+Z
+3
+2
+4
+6
+COME213
+Devre Analizi
+Z
+3
+2
+4
+6
+MATH207
+Olasılık ve İstatistik
+Z
+3
+0
+3
+5
+MATH251
+Doğrusal Cebir
+Z
+3
+0
+3
+5
+AİİT201
+Atatürk İlkeleri ve İnkılap Tarihi I
+Z
+2
+0
+2
+2
+Yarıyıl Toplam Kredi
+20
+30
+4. Yarıyıl
+Dersin Kodu
+Dersin Adı
+Z/S
+T
+U
+K
+A
+COME206
+Veritabanı Yönetim Sistemleri
+Z
+3
+2
+4
+6
+COME208
+Sayısal Mantık Tasarımı
+Z
+3
+2
+4
+6
+COME220
+Algoritma Analizi
+Z
+3
+2
+4
+6
+MATH252
+Diferansiyel Denklemler
+Z
+3
+0
+3
+5
+AİİT202
+Atatürk İlkeleri ve İnkılap Tarihi II
+Z
+2
+0
+2
+2
+TE
+Teknik Seçmeli I
+S
+3
+0
+3
+5
+Yarıyıl Toplam Kredi
+20
+30
+5. Yarıyıl
+Dersin Kodu
+Dersin Adı
+Z/S
+T
+U
+K
+A
+COME303
+Bilgisayar Mimarisi ve Organizasyonu
+Z
+3
+2
+4
+6
+COME315
+Elektronik Devreler
+Z
+3
+2
+4
+6
+EEE371
+Sinyaller ve Sistemler
+Z
+3
+0
+3
+5
+TE
+Teknik Seçmeli II
+S
+3
+0
+3
+5
+TE
+Teknik Seçmeli III
+S
+3
+0
+3
+5
+Serbest Seçmeli I
+S
+2
+0
+2
+3
+Yarıyıl Toplam Kredi
+19
+30
+6. Yarıyıl
+Dersin Kodu
+Dersin Adı
+Z/S
+T
+U
+K
+A
+COME306
+Bilgisayar Grafikleri
+Z
+3
+2
+4
+6
+COME308
+Web Programlama
+Z
+3
+0
+3
+5
+EEE310
+Mikroişlemciler
+Z
+3
+2
+4
+6
+TE
+Teknik Seçmeli IV
+S
+3
+0
+3
+5
+TE
+Teknik Seçmeli V
+S
+3
+0
+3
+5
+Serbest Seçmeli II
+S
+2
+0
+2
+3
+Yarıyıl Toplam Kredi
+19
+30
+7. Yarıyıl
+Dersin Kodu
+Dersin Adı
+Z/S
+T
+U
+K
+A
+COME499
+Bitirme Projesi
+Z
+0
+8
+4
+7
+COME405
+Yazılım Mühendisliği
+Z
+3
+0
+3
+5
+COME407
+Veri İletişimi ve Bilgisayar Ağları
+Z
+3
+0
+3
+5
+TE
+Teknik Seçmeli VI
+S
+3
+0
+3
+5
+TE
+Teknik Seçmeli VII
+S
+3
+0
+3
+5
+Serbest Seçmeli III
+S
+2
+0
+2
+3
+Yarıyıl Toplam Kredi
+18
+30
+8. Yarıyıl
+Dersin Kodu
+Dersin Adı
+Z/S
+T
+U
+K
+A
+COME400
+Endüstride Uygulamalı Eğitim
+Z
+0
+8
+4
+30
+Yarıyıl Toplam Kredi
+4
+30
+2019 Müfredatı
+1. Yarıyıl
+Dersin Kodu
+Dersin Adı
+Z/S
+T
+U
+K
+A
+CENG101
+Bilgisayar Mühendisliğine Giriş
+Z
+3
+0
+3
+5
+INT100
+Üniversite Hayatına Giriş
+Z
+1
+0
+1
+1
+CENG111
+Bilgisayar Programlama I
+Z
+3
+2
+4
+5
+PHYS101
+Genel Fizik I
+Z
+3
+2
+4
+6
+MATH111
+Matematik I
+Z
+4
+0
+4
+6
+ENG101
+Mesleki İngilizce I
+Z
+3
+0
+3
+4
+TÜR101
+Türk Dili ve Edebiyatı I
+Z
+2
+0
+2
+2
+FE101
+Sosyal Sorumluluk Projesi
+Z
+0
+2
+0
+1
+Yarıyıl Toplam Kredi
+21
+30
+2. Yarıyıl
+Dersin Kodu
+Dersin Adı
+Z/S
+T
+U
+K
+A
+CENG112
+Bilgisayar Programlama II
+Z
+3
+2
+4
+5
+MATH114
+Ayrık Matematik
+Z
+4
+0
+4
+5
+PHYS102
+Genel Fizik II
+Z
+3
+2
+4
+6
+MATH112
+Matematik II
+Z
+4
+0
+4
+6
+ENG102
+Mesleki İngilizce II
+Z
+3
+0
+3
+4
+TÜR102
+Türk Dili ve Edebiyatı II
+Z
+2
+0
+2
+2
+FE102
+Teknoloji ve ArGe Yönetimi
+Z
+2
+0
+2
+2
+Yarıyıl Toplam Kredi
+23
+30
+3. Yarıyıl
+Dersin Kodu
+Dersin Adı
+Z/S
+T
+U
+K
+A
+CENG211
+Nesne Tabanlı Programlama
+Z
+3
+2
+4
+6
+EE205
+Devre Analizi
+Z
+3
+2
+4
+6
+MATH211
+Doğrusal Cebir
+Z
+3
+0
+3
+5
+AİİT201
+Atatürk İlkeleri ve İnkılap Tarihi I
+Z
+2
+0
+2
+2
+FE201
+Mühendislik Etiği
+Z
+2
+0
+2
+2
+EE243
+Sayısal Mantık Tasarımı
+Z
+3
+2
+4
+6
+Serbest Seçmeli
+S
+2
+0
+2
+3
+Yarıyıl Toplam Kredi
+21
+30
+4. Yarıyıl
+Dersin Kodu
+Dersin Adı
+Z/S
+T
+U
+K
+A
+CENG212
+Veritabanı Yönetim Sistemleri
+Z
+3
+2
+4
+6
+MATH212
+Diferansiyel Denklemler
+Z
+3
+0
+3
+5
+AİİT202
+Atatürk İlkeleri ve İnkılap Tarihi II
+Z
+2
+0
+2
+2
+FE202
+İş Sağlığı ve Güvenliği
+Z
+2
+0
+2
+2
+CENG214
+Veri Yapıları
+Z
+3
+2
+4
+6
+CENG202
+Bilgisayar Mimarisi ve Organizasyonu
+Z
+3
+0
+3
+5
+BIO202
+Biology
+Z
+3
+0
+3
+4
+Yarıyıl Toplam Kredi
+21
+30
+5. Yarıyıl
+Dersin Kodu
+Dersin Adı
+Z/S
+T
+U
+K
+A
+CENG301
+Algoritma Analizi
+Z
+3
+2
+4
+5
+CENG311
+Veri İletişimi ve Bilgisayar Ağları
+Z
+3
+2
+4
+6
+MATH331
+Olasılık ve İstatistik
+Z
+3
+0
+3
+5
+CENG313
+Web Programlama
+Z
+3
+2
+4
+5
+EE331
+Sinyaller ve Sistemler
+Z
+3
+0
+3
+4
+TE
+Teknik Seçmeli I
+S
+3
+0
+3
+5
+Yarıyıl Toplam Kredi
+21
+30
+6. Yarıyıl
+Dersin Kodu
+Dersin Adı
+Z/S
+T
+U
+K
+A
+CENG302
+Yazılım Mühendisliği
+Z
+3
+0
+3
+4
+CENG306
+Yapay Zeka
+Z
+3
+0
+3
+5
+CENG304
+İşletim Sistemleri
+Z
+3
+0
+3
+5
+CENG314
+Mikroişlemciler
+Z
+3
+2
+4
+6
+TE
+Teknik Seçmeli II
+S
+3
+0
+3
+5
+TE
+Teknik Seçmeli III
+S
+3
+0
+3
+5
+Yarıyıl Toplam Kredi
+19
+30
+7. Yarıyıl
+Dersin Kodu
+Dersin Adı
+Z/S
+T
+U
+K
+A
+CENG499
+Bitirme Projesi
+Z
+0
+8
+4
+5
+FE401
+Çok Disiplinli Entegre Proje
+Z
+0
+8
+4
+5
+TE
+Teknik Seçmeli IV
+Z
+3
+0
+3
+5
+TE
+Teknik Seçmeli V
+S
+3
+0
+3
+5
+TE
+Teknik Seçmeli VI
+S
+3
+0
+3
+5
+TE
+Teknik Seçmeli VII
+S
+3
+0
+3
+5
+Yarıyıl Toplam Kredi
+20
+30
+8. Yarıyıl
+Dersin Kodu
+Dersin Adı
+Z/S
+T
+U
+K
+A
+FE400
+Endüstride Uygulamalı Eğitim
+Z
+0
+8
+4
+30
+Yarıyıl Toplam Kredi
+4
+30
