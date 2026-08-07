@@ -1,6 +1,11 @@
 import chromadb
 from chromadb.utils import embedding_functions
-import ollama
+import os
+from dotenv import load_dotenv
+from groq import Groq
+
+load_dotenv()  # .env dosyasını oku
+groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 DB_KLASORU = "chroma_db"
 KOLEKSIYON_ADI = "hku_ceng"
@@ -60,9 +65,10 @@ def cevap_uret(soru):
     CEVAP:"""
 
     # --- LLM'den cevap al ---
-    yanit = ollama.chat(
-        model="qwen2.5:7b",
-        messages=[{"role": "user", "content": prompt}]
+    yanit = groq_client.chat.completions.create(
+        model="llama-3.3-70b-versatile",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.3
     )
 
     # --- Kullanılan kaynakları URL'ye çevir (tekrarsız) ---
@@ -75,7 +81,7 @@ def cevap_uret(soru):
             kaynaklar.append(kaynak)
 
     return {
-        "cevap": yanit["message"]["content"],
+        "cevap": yanit.choices[0].message.content,
         "kaynaklar": kaynaklar
     }
 

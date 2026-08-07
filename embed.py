@@ -48,9 +48,9 @@ for dosya_adi in ALINACAK_DOSYALAR:
     if len(metin.strip()) < 50:
         continue
 
-    # Akademik personel listesini parçalama - bütün kalsın
+
     if dosya_adi == "akademik-personel.txt":
-            dosya_parcalari = [metin]  # tek parça olarak al
+            dosya_parcalari = [metin]
     else:
             dosya_parcalari = splitter.split_text(metin)
     for parca in dosya_parcalari:

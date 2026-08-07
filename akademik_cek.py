@@ -15,27 +15,25 @@ yanit = requests.get(URL, headers=HEADERS, timeout=10)
 yanit.encoding = "utf-8"
 soup = BeautifulSoup(yanit.text, "html.parser")
 
-# Her hoca bir <h4> başlığı içinde (isim), altında görev + e-posta var
 hocalar = []
 
-# İsimleri <h4> etiketlerinden bul
+
 for baslik in soup.find_all("h4"):
     isim = baslik.get_text(strip=True)
     if not isim:
         continue
 
-    # İsimden sonraki metinde görev ve e-posta aranır
-    # Bir sonraki tabloyu/metni bul
+
     sonraki = baslik.find_next("table")
     detay = ""
     if sonraki:
         detay = sonraki.get_text(separator=" ", strip=True)
 
-    # Sadece gerçek hoca kayıtlarını al (@ işareti olanlar = e-posta var)
+
     if "@" in detay:
         hocalar.append(f"Akademik Personel: {isim}\nBilgiler: {detay}\n")
 
-# Dosyaya yaz
+
 with open(CIKTI, "w", encoding="utf-8") as f:
     f.write("HKÜ Bilgisayar Mühendisliği Akademik Personel Listesi\n")
     f.write("Bu sayfada bölümdeki tüm hocalar, öğretim üyeleri, profesörler, "

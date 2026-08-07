@@ -12,3 +12,4 @@ __pycache__/
 # Vektör veritabanı (yeniden üretilebilir)
 chroma_db/
 
+.env
