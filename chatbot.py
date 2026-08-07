@@ -12,9 +12,9 @@ KOLEKSIYON_ADI = "hku_ceng"
 ANA_ADRES = "https://compe.hku.edu.tr/"
 
 # --- Veritabanına bağlan ---
-embed_fonksiyonu = embedding_functions.SentenceTransformerEmbeddingFunction(
-    model_name="intfloat/multilingual-e5-large"
-)
+from gemini_embed import GeminiEmbedding
+embed_fonksiyonu = GeminiEmbedding()
+
 client = chromadb.PersistentClient(path=DB_KLASORU)
 koleksiyon = client.get_collection(
     name=KOLEKSIYON_ADI,
@@ -25,16 +25,17 @@ koleksiyon = client.get_collection(
 def cevap_uret(soru):
     # --- İlgili parçaları bul ---
     sonuc = koleksiyon.query(
-        query_texts=["query: " + soru],
+        query_texts=[soru],
         n_results=5
     )
     parcalar = sonuc["documents"][0]
     mesafeler = sonuc["distances"][0]
+    print(f"[DEBUG] En yakın mesafe: {mesafeler[0]:.3f}")
 
     metadatalar = sonuc["metadatas"][0]
 
     # --- Mesafe eşiği: en yakın parça bile uzaksa cevap verme ---
-    if not parcalar or mesafeler[0] > 0.45:
+    if not parcalar or mesafeler[0] > 0.65:
         return {
             "cevap": "Bu konuda elimde bilgi yok. Sadece Bilgisayar Mühendisliği bölümüyle ilgili soruları yanıtlayabilirim.",
             "kaynaklar": []
