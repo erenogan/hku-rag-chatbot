@@ -7,7 +7,6 @@
 
 **Evaluation:** Faithfulness 5.0/5 · Answer Relevancy 5.0/5 (measured with an LLM-as-a-judge pipeline on a test set of core questions)
 
-2. Tech Stack bölümünü güncelle — eski bilgiler duruyor, düzelt:
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions about the Computer Engineering department of Hasan Kalyoncu University, using real data scraped from the department website.
 
@@ -50,6 +49,7 @@ The project is built in layers:
 - **Frontend:** HTML, CSS, JavaScript
  Deployment: Backend on Render, frontend on Vercel
  Evaluation: Custom LLM-as-a-judge pipeline
+ Monitoring: Langfuse
 
 ---
 
