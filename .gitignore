@@ -10,6 +10,6 @@ __pycache__/
 .idea/
 
 # Vektör veritabanı (yeniden üretilebilir)
-chroma_db/
+
 
 .env

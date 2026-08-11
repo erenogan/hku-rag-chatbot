@@ -83,7 +83,8 @@ def cevap_uret(soru):
 
     return {
         "cevap": yanit.choices[0].message.content,
-        "kaynaklar": kaynaklar
+        "kaynaklar": kaynaklar,
+        "baglam": temiz_parcalar
     }
 
 
