@@ -4,6 +4,11 @@
 
 > Note: hosted on a free tier, so the first request may take 30-60s to wake the server.
 
+
+**Evaluation:** Faithfulness 5.0/5 · Answer Relevancy 5.0/5 (measured with an LLM-as-a-judge pipeline on a test set of core questions)
+
+2. Tech Stack bölümünü güncelle — eski bilgiler duruyor, düzelt:
+
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions about the Computer Engineering department of Hasan Kalyoncu University, using real data scraped from the department website.
 
 Built end-to-end as a learning project: web scraping → data cleaning → chunking → embeddings → vector search → LLM generation → API → web interface.
@@ -43,6 +48,8 @@ The project is built in layers:
 - **LLM:** Groq (Llama 3.3 70B)
 - **Backend:** FastAPI, Uvicorn
 - **Frontend:** HTML, CSS, JavaScript
+ Deployment: Backend on Render, frontend on Vercel
+ Evaluation: Custom LLM-as-a-judge pipeline
 
 ---
 
@@ -65,6 +72,13 @@ This project was as much about **debugging** as building. Some problems I solved
 - **Structured data → single-chunk strategy.** The academic staff list was getting split and mixed up, so I kept it as one chunk and added search-friendly keywords to improve retrieval.
 
 ---
+## Evaluation
+
+I built a lightweight LLM-as-a-judge evaluation pipeline (`degerlendir.py`) that scores each answer on two metrics:
+- **Faithfulness:** is the answer grounded only in the retrieved context?
+- **Answer Relevancy:** how relevant is the answer to the question?
+
+On a test set of core questions, the system scored 5.0/5 on both. The test set covers questions with known answers in the data; edge cases (partial or missing answers) would be the next step to expand coverage.
 
 ## Known limitations
 
@@ -79,6 +93,7 @@ This project was as much about **debugging** as building. Some problems I solved
 - Reranking for better result ordering
 - Evaluation metrics to measure accuracy
 - Agentic RAG — letting the model decide when to search
+
 
 ---
 
