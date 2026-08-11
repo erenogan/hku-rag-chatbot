@@ -38,7 +38,7 @@ def cevap_uret(soru):
     metadatalar = sonuc["metadatas"][0]
 
     # --- Mesafe eşiği: en yakın parça bile uzaksa cevap verme ---
-    if not parcalar or mesafeler[0] > 0.65:
+    if not parcalar or mesafeler[0] > 0.78:
         langfuse.update_current_span(
             input={"soru": soru},
             output={

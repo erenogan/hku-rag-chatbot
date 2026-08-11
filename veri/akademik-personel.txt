@@ -1,5 +1,5 @@
 HKÜ Bilgisayar Mühendisliği Akademik Personel Listesi
-Bu sayfada bölümdeki tüm hocalar, öğretim üyeleri, profesörler, doktor öğretim üyeleri, araştırma görevlileri ve akademik kadro yer alır. Hangi hocalar var, kimler ders veriyor, öğretim üyesi listesi.
+Bu sayfada bölümdeki tüm hocalar, öğretim üyeleri, profesörler, doktor öğretim üyeleri, araştırma görevlileri ve akademik kadro yer alır. Hangi hocalar var, kimler ders veriyor, öğretim üyesi listesi. Hocaların e-posta adresleri, mail adresleri, iletişim bilgileri ve telefon numaraları burada bulunur. Bir hocanın e-postası, maili sorulduğunda bu bilgilere bakılır.
 
 Akademik Personel: Dr. Öğr. Üyesi Cihan KUZUDİŞLİ
 Bilgiler: Bölüm Başkanı cihan.kuzudisli@hku.edu.tr 0(342) 211 8080 Özgeçmiş (CV)

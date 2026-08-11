@@ -38,7 +38,10 @@ with open(CIKTI, "w", encoding="utf-8") as f:
     f.write("HKÜ Bilgisayar Mühendisliği Akademik Personel Listesi\n")
     f.write("Bu sayfada bölümdeki tüm hocalar, öğretim üyeleri, profesörler, "
             "doktor öğretim üyeleri, araştırma görevlileri ve akademik kadro yer alır. "
-            "Hangi hocalar var, kimler ders veriyor, öğretim üyesi listesi.\n\n")
+            "Hangi hocalar var, kimler ders veriyor, öğretim üyesi listesi. "
+            "Hocaların e-posta adresleri, mail adresleri, iletişim bilgileri ve "
+            "telefon numaraları burada bulunur. Bir hocanın e-postası, maili sorulduğunda "
+            "bu bilgilere bakılır.\n\n")
     f.write("\n".join(hocalar))
 
 print(f"{len(hocalar)} akademisyen kaydedildi -> {CIKTI}")
