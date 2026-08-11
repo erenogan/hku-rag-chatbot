@@ -3,8 +3,10 @@ from chromadb.utils import embedding_functions
 import os
 from dotenv import load_dotenv
 from groq import Groq
+from langfuse import observe, get_client
 
 load_dotenv()  # .env dosyasını oku
+langfuse = get_client()
 groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 DB_KLASORU = "chroma_db"
@@ -22,6 +24,7 @@ koleksiyon = client.get_collection(
 )
 
 
+@observe(name="soru-cevap")
 def cevap_uret(soru):
     # --- İlgili parçaları bul ---
     sonuc = koleksiyon.query(
@@ -36,9 +39,17 @@ def cevap_uret(soru):
 
     # --- Mesafe eşiği: en yakın parça bile uzaksa cevap verme ---
     if not parcalar or mesafeler[0] > 0.65:
+        langfuse.update_current_span(
+            input={"soru": soru},
+            output={
+                "cevap": "bilgi yok",
+                "en_yakin_mesafe": float(mesafeler[0]) if mesafeler else None
+            }
+        )
         return {
             "cevap": "Bu konuda elimde bilgi yok. Sadece Bilgisayar Mühendisliği bölümüyle ilgili soruları yanıtlayabilirim.",
-            "kaynaklar": []
+            "kaynaklar": [],
+            "baglam": []
         }
 
     # --- "passage: " öneklerini temizle (model bunları görmesin) ---
@@ -80,6 +91,15 @@ def cevap_uret(soru):
         kaynak = {"ad": dosya, "url": url}
         if kaynak not in kaynaklar:
             kaynaklar.append(kaynak)
+
+    langfuse.update_current_span(
+        input={"soru": soru},
+        output={
+            "cevap": yanit.choices[0].message.content,
+            "kaynak_sayisi": len(kaynaklar),
+            "en_yakin_mesafe": float(mesafeler[0])
+        }
+    )
 
     return {
         "cevap": yanit.choices[0].message.content,
