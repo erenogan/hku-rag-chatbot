@@ -1,5 +1,9 @@
 # HKÜ RAG Chatbot
 
+🔗 **Live demo:**    https://hku-rag-chatbot.vercel.app/
+
+> Note: hosted on a free tier, so the first request may take 30-60s to wake the server.
+
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions about the Computer Engineering department of Hasan Kalyoncu University, using real data scraped from the department website.
 
 Built end-to-end as a learning project: web scraping → data cleaning → chunking → embeddings → vector search → LLM generation → API → web interface.
@@ -24,7 +28,7 @@ The project is built in layers:
 
 1. **Data collection** — Web scraping with `requests` + `BeautifulSoup` (crawls the department site, cleans navigation/footer noise)
 2. **Data preparation** — Text chunking with LangChain's `RecursiveCharacterTextSplitter`
-3. **Retrieval** — Multilingual embeddings (`intfloat/multilingual-e5-large`) stored in `ChromaDB`
+3. **Retrieval** — Multilingual embeddings (Google Gemini (gemini-embedding-001)) stored in `ChromaDB`
 4. **Generation** — LLM answers via `Ollama` (`qwen2.5`), grounded in retrieved context
 5. **API** — `FastAPI` service exposing a `/sor` endpoint
 6. **Interface** — A custom HTML/CSS/JavaScript chat UI with source citations
@@ -36,7 +40,7 @@ The project is built in layers:
 - **Language:** Python, JavaScript
 - **Scraping:** requests, BeautifulSoup
 - **RAG:** LangChain (text splitting), sentence-transformers, ChromaDB
-- **LLM:** Ollama (qwen2.5:7b)
+- **LLM:** Groq (Llama 3.3 70B)
 - **Backend:** FastAPI, Uvicorn
 - **Frontend:** HTML, CSS, JavaScript
 
@@ -44,33 +48,11 @@ The project is built in layers:
 
 ## How to run
 
-**Requirements:** Python 3.10+, [Ollama](https://ollama.com) installed.
+Create a `.env` file with:
+GROQ_API_KEY=your_key
+GEMINI_API_KEY=your_key
 
-1. Clone the repo and install dependencies:
-```bash
-git clone https://github.com/erenogan/hku-rag-chatbot.git
-cd hku-rag-chatbot
-pip install requests beautifulsoup4 langchain-text-splitters sentence-transformers chromadb ollama fastapi uvicorn
-```
 
-2. Pull the LLM model:
-```bash
-ollama pull qwen2.5:7b
-```
-
-3. Build the vector database (embeds the data in `veri/`):
-```bash
-python embed.py
-```
-
-4. Start the API:
-```bash
-uvicorn api:app --reload
-```
-
-5. Open `index.html` in your browser and start asking questions.
-
----
 
 ## Key engineering decisions
 
